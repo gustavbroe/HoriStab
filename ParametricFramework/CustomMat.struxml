@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!-- (c) StruSoft 2012-2023, http://www.strusoft.com -->
+        <database struxml_version="01.00.000" source_software="FEM-Design 23.00.006" start_time="1970-01-01T00:00:00.000" end_time="2022-04-25T11:57:24.000" guid="5bd0e6af-1baf-4f73-8369-015724045a94" convertid="00000000-0000-0000-0000-000000000000" standard="EC" country="DK" xmlns="urn:strusoft">
+        <materials>
+            <material guid="15de474f-bdf8-4ebc-a9b6-f137e4616f71" last_change="2021-01-07T13:38:43.000" action="added" standard="EC" country="DK" name="E7.59">
+                <timber mass="0" E_0="0" E_1="0" E_2="0" nu_0="0" nu_1="0" nu_2="0" alfa_0="0.001" alfa_1="0.001" alfa_2="0.001"
+                        G_0="0" G_1="0" G_2="0" type="0" quality="0"
+                        Fmk0="14" Fmk90="14" Ft0k="7.2" Ft90k="0.4" Fc0k="16" Fc90k="2" Fvk="3"
+                        E0mean="7590.847370489895" E90mean="230" E0comp="7590.847370489895" E90comp="230"
+                        Gmean="474.42796065561845" E005="4700" G005="294" Rhok="290" Rhomean="350"
+                        gammaM_0="1.35" gammaM_1="1" ksys="1" k_cr="1" service_class="0"
+                        kdefU="0" kdefSq="0.6" kdefSf="0.6" kdefSc="0.6" gammaMfi="1">
+                </timber>
+            </material>
+        </materials>
+        <end></end>
+        </database>

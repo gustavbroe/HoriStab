@@ -1,0 +1,5 @@
+EXPORT:
+conda env export -n MP2 -f "C:\Users\gusta\OneDrive\DTU\12. Semester\Speciale\Compute\Python\EnvBackup\EnvMP2.yml"
+
+IMPORT:
+conda env create -f "C:\Users\gusta\OneDrive\DTU\12. Semester\Speciale\Compute\Python\EnvBackup\EnvMP2.yml"
